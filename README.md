@@ -13,3 +13,9 @@ Example: You're a startup company, and you're running out of budget. Labor cost 
 
 ## What Language do Flutter use?
 Flutter uses Dart, and Dart is very similar to Java and Javascript. And Learning Dart is very easy, it's just a matter of syntax, if you already have programming fundamental knowledge, you'll be good to go.
+
+## Why Does Flutter use dart?
+Most people may think that Flutter uses Dart because Dart was created and owned by Google. Well, that may be true but there're many reasons for Flutter Team to choose Dart as its programming language.
+1. Dart supports both just-in-time (JIT) compiling and ahead-of-time (AOT) compiling. 
+2. Dart is Object-oriented. It makes more sense to use programming language for UI instead of using markup language for UI in this scenario. 
+3. Dart is easy to learn and very familiar to other prominent languages.
